@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmoDbProcedureExecutor", "CosmoDbProcedureExecutor\CosmoDbProcedureExecutor.csproj", "{4DFA48DF-70B9-419F-B451-3D9159992700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DFA48DF-70B9-419F-B451-3D9159992700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFA48DF-70B9-419F-B451-3D9159992700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFA48DF-70B9-419F-B451-3D9159992700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFA48DF-70B9-419F-B451-3D9159992700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DBAF9F-B8C4-4694-B90B-4FC7D8A5E435}
+	EndGlobalSection
+EndGlobal
